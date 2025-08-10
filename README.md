@@ -3,6 +3,23 @@
 
 🚀 **A comprehensive ns-3 simulation framework for evaluating Multi-Link Operation (MLO) strategies in next-generation Wi-Fi networks**
 
+## 📚 Table of Contents
+
+1. [🎯 What This Project Does](#-what-this-project-does)
+2. [⚡ Quick Start (5 Minutes)](#-quick-start-5-minutes)
+3. [🛠️ Available MLO Strategies](#️-available-mlo-strategies)
+4. [🔧 Simulation Setup and Usage](#-simulation-setup-and-usage)
+   - [Environment Setup](#environment-setup)
+   - [Running Simulations](#running-simulations)
+   - [Testing Framework](#testing-framework)
+   - [Analysis Tools](#analysis-tools)
+5. [📊 Understanding the Results](#-understanding-the-results)
+6. [🧪 Advanced Usage](#-advanced-usage)
+7. [🔬 Research Background](#-research-background)
+8. [📈 Performance Metrics](#-performance-metrics)
+9. [🚀 Troubleshooting](#-troubleshooting)
+10. [📝 Research Context](#-research-context)
+
 ## 🎯 What This Project Does
 
 This simulation framework helps researchers evaluate and compare different **resource allocation strategies** for Multi-Link Operation in Wi-Fi 8 (IEEE 802.11bn). The project focuses on:
@@ -39,23 +56,6 @@ python3 mlo_analyser_script.py
 ```
 
 **🎉 Done!** Check `scratch/visualizations/` for your analysis results.
-
-## 📚 Table of Contents
-
-1. [🎯 What This Project Does](#-what-this-project-does)
-2. [⚡ Quick Start (5 Minutes)](#-quick-start-5-minutes)
-3. [🛠️ Available MLO Strategies](#️-available-mlo-strategies)
-4. [🔧 Simulation Setup and Usage](#-simulation-setup-and-usage)
-   - [Environment Setup](#environment-setup)
-   - [Running Simulations](#running-simulations)
-   - [Testing Framework](#testing-framework)
-   - [Analysis Tools](#analysis-tools)
-5. [📊 Understanding the Results](#-understanding-the-results)
-6. [🧪 Advanced Usage](#-advanced-usage)
-7. [🔬 Research Background](#-research-background)
-8. [📈 Performance Metrics](#-performance-metrics)
-9. [🚀 Troubleshooting](#-troubleshooting)
-10. [📝 Research Context](#-research-context)
 
 ## 🛠️ Available MLO Strategies
 
