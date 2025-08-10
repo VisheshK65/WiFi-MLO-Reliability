@@ -1,10 +1,6 @@
 
 # Multi-Link Operation Resource Allocation for Wi-Fi 8 Research
 
-**Author:** Vishesh Kiran Kumar Bafna  
-**Supervisor:** Dr. Hansini Vijayaraghavan  
-**Institution:** Research Internship Project  
-
 🚀 **A comprehensive ns-3 simulation framework for evaluating Multi-Link Operation (MLO) strategies in next-generation Wi-Fi networks**
 
 ## 🎯 What This Project Does
